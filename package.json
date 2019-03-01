@@ -1,0 +1,16 @@
+{
+  "name": "trie_articles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trie_articles.js",
+  "scripts": {
+    "build": "echo 'Build complete!'",
+    "start": "node trie_articles.js"
+  },
+  "author": "Jeet Sajan, Saumya Shastri & Saman Arora",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "readline-sync": "^1.4.9"
+  }
+}
